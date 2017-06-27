@@ -23,4 +23,6 @@ Instructions for wrapping android components as nativescript components are at h
 
 See also (tools useful for nativescript development)
 
+http://docs.nativescript.org/plugins/plugins#what-are-nativescript-plugins
+
 https://github.com/DeviantJS/awesome-nativescript
