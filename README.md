@@ -19,6 +19,8 @@ tns debug android
 
 The actual logic of interest is in app/main-view-model.js
 
+Instructions for wrapping android components as nativescript components are at https://docs.nativescript.org/plugins/ui-plugin
+
 See also (tools useful for nativescript development)
 
 https://github.com/DeviantJS/awesome-nativescript
