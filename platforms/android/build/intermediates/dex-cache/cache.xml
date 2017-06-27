@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/geza/nativescript-example/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/geza/nativescript-example/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-23.4.0_60abcdc79a854a62cf0155c7715a7db8e4aa7218.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geza/nativescript-example/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/geza/nativescript-example/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-23.4.0_29985a2a03b53e111626a0147dd215bd6515f873.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geza/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/geza/nativescript-example/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-23.4.0_cb8bd2ee30b765e79324d37da21a86cdfe8fba42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geza/nativescript-example/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/geza/nativescript-example/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-23.4.0_e384596f6413a967205166c4a31e125eab7f488b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geza/nativescript-example/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/geza/nativescript-example/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-23.4.0_0a0d3f63ec351155e8a626593a8f71d71db911a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geza/nativescript-example/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/geza/nativescript-example/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-23.4.0_da8582c8975814839d3a736b1831e235b850e038.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geza/nativescript-example/platforms/android/build/intermediates/exploded-aar/nativescriptexample/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cb501f7cf4d74a5f9ec1a9c8172e552f57ea3215">
+        <dex dex="/Users/geza/nativescript-example/platforms/android/build/intermediates/pre-dexed/F0/debug/nativescriptexample-runtime-unspecified_1d87b888dddc8e6d495c9e9cddf9fabae017a4c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geza/nativescript-example/platforms/android/build/intermediates/exploded-aar/nativescriptexample/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="/Users/geza/nativescript-example/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_87265f430012ff6b8e27add972ec5fe556c0fc46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geza/nativescript-example/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="/Users/geza/nativescript-example/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_897da91b88a8c8f47f069e92cfa41ba3afcc98b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geza/nativescript-example/platforms/android/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/geza/nativescript-example/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-23.4.0_9d4813ac5c0989c390436097903a8117134edef8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geza/nativescript-example/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/geza/nativescript-example/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-23.4.0_dfc023cf7dd0cc5375ed600cf13ee804e8c10606.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/geza/nativescript-example/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi/icon.png",
+        "source": "/Users/geza/nativescript-example/platforms/android/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/geza/nativescript-example/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi/logo.png",
+        "source": "/Users/geza/nativescript-example/platforms/android/src/main/res/drawable-ldpi/logo.png"
+    },
+    {
+        "merged": "/Users/geza/nativescript-example/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi/background.png",
+        "source": "/Users/geza/nativescript-example/platforms/android/src/main/res/drawable-ldpi/background.png"
+    }
+]
