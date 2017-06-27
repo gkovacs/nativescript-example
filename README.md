@@ -19,3 +19,6 @@ tns debug android
 
 The actual logic of interest is in app/main-view-model.js
 
+See also (tools useful for nativescript development)
+
+https://github.com/DeviantJS/awesome-nativescript
