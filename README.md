@@ -1,6 +1,6 @@
 # nativescript example
 
-This is my evaluation of using nativescript to be able to access 
+This is my evaluation of using nativescript for enabling access to native android APIs through eval (with javascript)
 
 See for comparison https://github.com/gkovacs/react-native-example - unlike react-native, with nativescript we have access to all the android APIs direct from javascript without manually writing any native code or wrappers.
 
